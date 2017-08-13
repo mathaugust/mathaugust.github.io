@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502069477,
+	"version": 1502598558,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -66,6 +66,8 @@
 		"images/sprite6-sheet0.png",
 		"images/sprite7-sheet0.png",
 		"images/sprite8-sheet0.png",
+		"images/sprite9-sheet0.png",
+		"images/sprite10-sheet0.png",
 		"media/click3.m4a",
 		"media/click3.ogg",
 		"media/221540__unfa__melee-attack-2.m4a",
@@ -84,6 +86,8 @@
 		"media/fase_01_perdendo[1].ogg",
 		"media/vitoria[1].ogg",
 		"media/game_over[1].ogg",
+		"media/385074__dk77__dkno-logo-efx-i.m4a",
+		"media/385074__dk77__dkno-logo-efx-i.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
