@@ -1,6 +1,6 @@
 ﻿{
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Run Juliana Run",
+	"short_name": "Run Juliana Run",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
