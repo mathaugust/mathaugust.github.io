@@ -16,7 +16,7 @@ Aluno de jogos aprendendo a fazer um portfólio com o Prof. Marcelo
 
 ## Artes
 * Criam listas não ordenadas 
-1. criam listas ordenadas
+1. criam listas ordenadas  
 
 ## Projetos
 
