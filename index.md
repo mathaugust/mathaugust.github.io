@@ -20,6 +20,9 @@ Aluno de jogos aprendendo a fazer um portfólio com o Prof. Marcelo
 
 ![PATO](http://www.stickaz.com/6627-7610-home/duck-toy.png)
 
+
+![](emoji.png)
+
 ## Projetos
 
 
