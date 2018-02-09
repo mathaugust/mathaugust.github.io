@@ -6,7 +6,7 @@ Criando **minha** _página_ ~~principal~~.
 
 # Quem sou eu
 
-Aluno de jogos aprendendo a fazer um portfólia com o Prof. Marcelo
+Aluno de jogos aprendendo a fazer um portfólio com o Prof. Marcelo
 
 # Portfólio
 
