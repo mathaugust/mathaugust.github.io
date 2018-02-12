@@ -62,9 +62,22 @@ Jogo Desenvolvido para servir como bases para o Relatório de Projeto Integrador
 ![](emoji.png)
 
 ## Projetos/Outros
-*Clube da Leitura
 
+1. Projetos
 
+* Clube da leitura  
+
+![](Clube1.JPG)  
+
+Se trata de um projeto de extensão realizado no IFRN - Campus Ceará Mirim que busca estimular e diversificar o interesse e prazer pela leitura, abrindo assim o acervo para debates e estimulando o pensamento crítico. 
+
+2. Turma
+
+* PJD3V
+
+![](IMG_0205.JPG)  
+
+Turma de Programação de Jogos Digitais(PJD3V) na aula de campo realizada em Diogo Lopes/Macau-RN
 
 * * *
 
