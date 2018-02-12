@@ -7,7 +7,7 @@ layout: default
 
 Matheus Augusto.
 
-![](eu.pjpg)
+![](eu.jpg)
 
 Aluno do curso técnico integrado ao ensino médio em Programação de Jogos Digitais pelo Instituto Federal de Educação, Ciência e Tecnologia(IFRN)
 
