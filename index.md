@@ -21,8 +21,6 @@ Contato:
 
 ## Games:
 
-* * * 
-
 [![](NordesteAdventure.JPG)](mathaugust.github.io/NordesteAdventure)
 **NORDESTE ADVENTURE**  
 
