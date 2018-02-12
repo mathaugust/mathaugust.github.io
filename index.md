@@ -37,7 +37,6 @@ O Lampião precisa escapar de alguns obstáculos em alguns cenários do nordeste
 **ESSE FOI UM SUCESSO! <3**  
 
 A Juliana é uma ninja que carrega a missão de pegar todas as letras perdidas afim de desvendar uma mensagem e trazer felicidade para o Natal e Halloween. O Jogo foi desenvolvido com o colega Lucas Revorêdo como requisito avaliativo do 2º Bimestre para a disciplina de Oficina de Jogos Digitais ministrada pelo Professor: Ms. Marcelo Barbosa.  
-
 [Site do Lucas](revoredoo.github.io)
 
 * * *
@@ -55,10 +54,10 @@ Jogo em estilo Tower Defense desenvolvido para servir como bases para o Relatór
 
 ## Artes
 
-1. Lampião do Nordeste Adventure
+1. Lampião do Nordeste Adventure  
 ![](lamp.jpg)
 
-2. Juliana da Run Juliana Run
+2. Juliana da Run Juliana Run  
 ![](juli.jpg)
 
 
