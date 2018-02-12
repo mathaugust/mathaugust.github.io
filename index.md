@@ -52,14 +52,6 @@ Jogo em estilo Tower Defense desenvolvido para servir como bases para o Relatór
 
 [JOGO1](link.github.io)
 
-## Artes
-
-1. Lampião do Nordeste Adventure  
-![](lamp.jpg)
-
-2. Juliana da Run Juliana Run  
-![](juli.jpg)
-
 
 ## Projetos/Outros
 
