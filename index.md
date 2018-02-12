@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Criando **minha** _página_ ~~principal~~.
 
 # Quem sou eu:
 
@@ -50,7 +49,6 @@ Jogo em estilo Tower Defense desenvolvido para servir como bases para o Relatór
 
 * * *
 
-[JOGO1](link.github.io)
 
 
 ## Projetos/Outros
@@ -70,16 +68,5 @@ Se trata de um projeto de extensão realizado no IFRN - Campus Ceará Mirim que 
 ![](IMG_0205.JPG)  
 
 Turma de Programação de Jogos Digitais(PJD3V) na aula de campo realizada em Diogo Lopes/Macau-RN
-
-* * *
-
-** negrito  
-_ itálico  
-~~ riscado  
-
-3* linha horizontal(barra)
-#s uma ou mais hashtags criam capítulos ou subcapítulos
-[TEXTO QUE VAI APARECER](link)
-![NOME OPCIONAL](link)
 
 * * *
