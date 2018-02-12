@@ -26,7 +26,7 @@ Contato:
 
 ~~Primeiro Joguinho, né galera?~~  
 
-Jogo Desenvolvido com a colega Bruna Noronha como requisito avaliativo do 1º Bimestre para a disciplina de Oficina de Jogos Digitais ministrada pelo Professor: Ms. Marcelo Barbosa.  
+O Lampião precisa escapar de alguns obstáculos em alguns cenários do nordeste, afim de chegar ao Padre Cícero. O Jogo foi desenvolvido junto com a colega Bruna Noronha como requisito avaliativo do 1º Bimestre para a disciplina de Oficina de Jogos Digitais ministrada pelo Professor: Ms. Marcelo Barbosa.  
 [Site da Bruna](brunitxia.github.io)
 
 * * *
@@ -36,7 +36,8 @@ Jogo Desenvolvido com a colega Bruna Noronha como requisito avaliativo do 1º Bi
 
 **ESSE FOI UM SUCESSO! <3**  
 
-Jogo Desenvolvido com o colega Lucas Revorêdo como requisito avaliativo do 2º Bimestre para a disciplina de Oficina de Jogos Digitais ministrada pelo Professor: Ms. Marcelo Barbosa.  
+A Juliana é uma ninja que carrega a missão de pegar todas as letras perdidas afim de desvendar uma mensagem e trazer felicidade para o Natal e Halloween. O Jogo foi desenvolvido com o colega Lucas Revorêdo como requisito avaliativo do 2º Bimestre para a disciplina de Oficina de Jogos Digitais ministrada pelo Professor: Ms. Marcelo Barbosa.  
+
 [Site do Lucas](revoredoo.github.io)
 
 * * *
@@ -46,20 +47,19 @@ Jogo Desenvolvido com o colega Lucas Revorêdo como requisito avaliativo do 2º 
 
 _Tentando, ainda em fase de testes!_  
 
-Jogo Desenvolvido para servir como bases para o Relatório de Projeto Integrador que também terá a orientação do Professor: Ms. Marcelo Barbosa.
+Jogo em estilo Tower Defense desenvolvido para servir como bases para o Relatório de Projeto Integrador que também terá a orientação do Professor: Ms. Marcelo Barbosa.
 
 * * *
 
 [JOGO1](link.github.io)
 
 ## Artes
-* Criam listas não ordenadas 
-1. criam listas ordenadas  
+
 1. Lampião do Nordeste Adventure
 ![](lamp.jpg)
 
 2. Juliana da Run Juliana Run
-![](ju.jpg)
+![](ju .jpg)
 
 
 ## Projetos/Outros
