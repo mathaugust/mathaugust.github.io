@@ -4,7 +4,7 @@ layout: default
 
 Criando **minha** _página_ ~~principal~~.
 
-# Quem sou eu
+# Quem sou eu:
 
 Matheus Augusto S. Severiano.
 
