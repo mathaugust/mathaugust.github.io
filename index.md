@@ -31,7 +31,7 @@ Jogo Desenvolvido com a colega Bruna Noronha como requisito avaliativo do 1º Bi
 
 * * *
 
-[![](RunJulianaRun.JPG)](mathaugust.github.io/RunJulianaRun)
+[![](RunJulianaRun.JPG)](/RunJulianaRun)
 **RUN JULIANA RUN**  
 
 **ESSE FOI UM SUCESSO! <3**  
@@ -41,7 +41,7 @@ Jogo Desenvolvido com o colega Lucas Revorêdo como requisito avaliativo do 2º 
 
 * * *
 
-[![](DefenseOfTheOrganism.JPG)](mathaugust.github.io/RunJulianaRun)
+[![](DefenseOfTheOrganism.JPG)](/RunJulianaRun)
 **DEFENSE OF THE ORGANISM**  
 
 _Tentando, ainda em fase de testes!_  
