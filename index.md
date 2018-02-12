@@ -55,11 +55,12 @@ Jogo Desenvolvido para servir como bases para o Relatório de Projeto Integrador
 ## Artes
 * Criam listas não ordenadas 
 1. criam listas ordenadas  
+1. Lampião do Nordeste Adventure
+![](lamp.jpg)
 
-![PATO](http://www.stickaz.com/6627-7610-home/duck-toy.png)
+2. Juliana da Run Juliana Run
+![](ju.jpg)
 
-
-![](emoji.png)
 
 ## Projetos/Outros
 
