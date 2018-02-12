@@ -17,6 +17,7 @@ Contato:
  Email Pessoal: mathaugustt@icloud.com  
  Email Acadêmico: matheus.soares@academico.ifrn.edu.br  
  [Currículo Lattes](http://lattes.cnpq.br/8754198449610994)  
+ Redes Sociais: [_Pinterest_](www.pinterest.com/mathaugustbeta) [~~Twitter~~](www.twitter.com/mathauguts)
  
 # Portfólio
 
@@ -72,3 +73,7 @@ Se trata de um projeto de extensão realizado no IFRN - Campus Ceará Mirim que 
 Turma de Programação de Jogos Digitais(PJD3V) na aula de campo realizada em Diogo Lopes/Macau-RN
 
 * * *
+## Eventos
+
+* Palestra com a Massive Work a respeito de empreendedorismo na área de jogos digitais.(2017)
+* I Expotec do IFRN-Campus Ceará Mirim, tema: "Ciência e Tecnologia: Transformando as relações humanas com o mundo".(2017)
