@@ -59,7 +59,7 @@ Jogo Desenvolvido para servir como bases para o Relatório de Projeto Integrador
 ![](lamp.jpg)
 
 2. Juliana da Run Juliana Run
-![](ju.jpg)
+![](ju .jpg)
 
 
 ## Projetos/Outros
