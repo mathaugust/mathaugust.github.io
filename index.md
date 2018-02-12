@@ -5,7 +5,9 @@ layout: default
 
 # Quem sou eu:
 
-Matheus Augusto S. Severiano.
+Matheus Augusto.
+
+![](eu.pjpg)
 
 Aluno do curso técnico integrado ao ensino médio em Programação de Jogos Digitais pelo Instituto Federal de Educação, Ciência e Tecnologia(IFRN)
 
