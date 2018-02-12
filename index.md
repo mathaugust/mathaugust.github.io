@@ -6,14 +6,43 @@ Criando **minha** _página_ ~~principal~~.
 
 # Quem sou eu
 
-Aluno de jogos aprendendo a fazer um portfólio com o Prof. Marcelo
+Matheus Augusto S. Severiano.
 
+Aluno do curso técnico integrado ao ensino médio em Programação de Jogos Digitais.
+
+Essa página foi criada como requisito avaliativo na disciplina de Motores de Jogos II ministrada pelo Professor: Ms. Marcelo de Barros Barbosa.
+
+Contato:  
+ Email Pessoal: mathaugustt@icloud.com  
+ Email Acadêmico: matheus.soares@academico.ifrn.edu.br  
+ Currículo Lattes: http://lattes.cnpq.br/8754198449610994  
+ 
 # Portfólio
 
 ## Games
 
-[![](img.png)](mathaugust.github.io)
+[![](NordesteAdventure.JPG)](mathaugust.github.io/NordesteAdventure)
+**NORDESTE ADVENTURE**  
 
+~~Primeiro Joguinho, né galera?~~  
+
+Jogo Desenvolvido com a colega Bruna Noronha como requisito avaliativo do 1º Bimestre para a disciplina de Oficina de Jogos Digitais ministrada pelo Professor: Ms. Marcelo Barbosa.
+[Site da Bruna](brunitxia.github.io)
+
+[![](RunJulianaRun.JPG)](mathaugust.github.io/RunJulianaRun)
+**RUN JULIANA RUN**  
+
+**ESSE FOI UM SUCESSO**  
+
+Jogo Desenvolvido com o colega Lucas Revorêdo como requisito avaliativo do 2º Bimestre para a disciplina de Oficina de Jogos Digitais ministrada pelo Professor: Ms. Marcelo Barbosa.
+[Site do Lucas](revoredoo.github.io)
+
+[![](DefenseOfTheOrganism.JPG)](mathaugust.github.io/RunJulianaRun)
+**DEFENSE OF THE ORGANISM**  
+
+_Tentando, ainda em fase de testes!_  
+
+Jogo Desenvolvido para servir como bases para o Relatório de Projeto Integrador que também terá a orientação do Professor: Ms. Marcelo Barbosa.
 
 [JOGO1](link.github.io)
 
