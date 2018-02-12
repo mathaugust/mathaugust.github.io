@@ -8,7 +8,7 @@ Criando **minha** _página_ ~~principal~~.
 
 Matheus Augusto S. Severiano.
 
-Aluno do curso técnico integrado ao ensino médio em Programação de Jogos Digitais.
+Aluno do curso técnico integrado ao ensino médio em Programação de Jogos Digitais pelo Instituto Federal de Educação, Ciência e Tecnologia(IFRN)
 
 Essa página foi criada como requisito avaliativo na disciplina de Motores de Jogos II ministrada pelo Professor: Ms. Marcelo de Barros Barbosa.
 
@@ -59,7 +59,7 @@ Jogo em estilo Tower Defense desenvolvido para servir como bases para o Relatór
 ![](lamp.jpg)
 
 2. Juliana da Run Juliana Run
-![](ju .jpg)
+![](juli.jpg)
 
 
 ## Projetos/Outros
