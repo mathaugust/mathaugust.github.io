@@ -63,7 +63,7 @@ Jogo em estilo Tower Defense desenvolvido para servir como bases para o Relatór
 
 ## Projetos/Outros
 
-1. Projetos
+### Projetos
 
 * Clube da leitura  
 
@@ -71,7 +71,7 @@ Jogo em estilo Tower Defense desenvolvido para servir como bases para o Relatór
 
 Se trata de um projeto de extensão realizado no IFRN - Campus Ceará Mirim que busca estimular e diversificar o interesse e prazer pela leitura, abrindo assim o acervo para debates e estimulando o pensamento crítico. 
 
-2. Turma
+### Turma
 
 * PJD3V
 
