@@ -3,9 +3,7 @@ layout: default
 ---
 
 
-# Quem sou eu:
-
-Matheus Augusto.
+# Quem é Matheus?:
 
 ![](eu.jpg)
 
@@ -43,7 +41,7 @@ A Juliana é uma ninja que carrega a missão de pegar todas as letras perdidas a
 
 * * *
 
-[![](DefenseOfTheOrganism.JPG)](/RunJulianaRun)
+[![](DefenseOfTheOrganism.JPG)](/DefenseOfTheOrganism)
 **DEFENSE OF THE ORGANISM**  
 
 _Tentando, ainda em fase de testes!_  
