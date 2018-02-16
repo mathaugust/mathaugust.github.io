@@ -50,7 +50,12 @@ Jogo em estilo Tower Defense desenvolvido para servir como bases para o Relatór
 
 * * *
 
+## Artes  
 
+![](IMG_0819.JPG)
+PanteraGames, logo desenvolvida para intro do game Run Juliana Run.
+
+* * *
 
 ## Projetos/Outros
 
