@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Quem é Matheus?:
+# Quem é Matheus?
 
 ![](eu.jpg)
 
