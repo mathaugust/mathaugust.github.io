@@ -52,9 +52,11 @@ Jogo em estilo Tower Defense desenvolvido para servir como bases para o Relatór
 
 ## Artes  
 
-![](IMG_0819.JPG)
+![](IMG_0819.JPG)  
 PanteraGames, logo desenvolvida para intro do game Run Juliana Run.
 
+![](INFLUENCE MAP - MATHEUS AUGUSTO (PJD3V).jpg)  
+Influence Map, Atividade desenvolvida como requisito avaliativo para a disciplina de Motores de Jogos II.
 * * *
 
 ## Projetos/Outros
