@@ -27,7 +27,7 @@ Contato:
 ~~Primeiro Joguinho, né galera?~~  
 
 O Lampião precisa escapar de alguns obstáculos em alguns cenários do nordeste, afim de chegar ao Padre Cícero. O Jogo foi desenvolvido junto com a colega Bruna Noronha como requisito avaliativo do 1º Bimestre para a disciplina de Oficina de Jogos Digitais ministrada pelo Professor: Ms. Marcelo Barbosa.  
-[Site da Bruna](brunitxia.github.io)
+[Site da Bruna](https://brunitxia.github.io)
 
 * * *
 
