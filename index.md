@@ -15,7 +15,7 @@ Contato:
  Email Pessoal: mathaugustt@icloud.com  
  Email Acadêmico: matheus.soares@academico.ifrn.edu.br  
  [Currículo Lattes](http://lattes.cnpq.br/8754198449610994)  
- Redes Sociais: [_Pinterest_](www.pinterest.com/mathaugustbeta) [~~Twitter~~](www.twitter.com/mathauguts)
+ Redes Sociais: [~~Pinterest~~](www.pinterest.com/mathaugustbeta) [~~Twitter~~](www.twitter.com/mathauguts)
  
 # Portfólio
 
@@ -56,7 +56,8 @@ Jogo em estilo Tower Defense desenvolvido para servir como bases para o Relatór
 PanteraGames, logo desenvolvida para intro do game Run Juliana Run.
 
 ![](INFLUENCE MAP - MATHEUS AUGUSTO (PJD3V).jpg)  
-Influence Map, Atividade desenvolvida como requisito avaliativo para a disciplina de Motores de Jogos II.
+Influence Map, Atividade desenvolvida como requisito avaliativo para a disciplina de Motores de Jogos II.  
+
 * * *
 
 ## Projetos/Outros
