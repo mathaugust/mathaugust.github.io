@@ -5,7 +5,7 @@ layout: default
 
 # Quem é Matheus?
 
-![](eu.jpg)
+![](eu.png)
 
 Aluno do curso técnico integrado ao ensino médio em Programação de Jogos Digitais pelo Instituto Federal de Educação, Ciência e Tecnologia(IFRN)
 
@@ -27,7 +27,7 @@ Contato:
 ~~Primeiro Joguinho, né galera?~~  
 
 O Lampião precisa escapar de alguns obstáculos em alguns cenários do nordeste, afim de chegar ao Padre Cícero. O Jogo foi desenvolvido junto com a colega Bruna Noronha como requisito avaliativo do 1º Bimestre para a disciplina de Oficina de Jogos Digitais ministrada pelo Professor: Ms. Marcelo Barbosa.  
-[Site da Bruna](https://brunitxia.github.io)
+[Site da Bruna](https://brunarafaella.github.io)
 
 * * *
 
@@ -87,4 +87,4 @@ Turma de Programação de Jogos Digitais(PJD3V) na aula de campo realizada em Di
 ## Hobbies   
 
 * [Fitdance](https://www.youtube.com/channel/UCl_AQeO6ynSDRSjclc1e16Q)
-* Correr
+* [Correr](http://suacorrida.com.br/canal/saude/os-beneficios-da-corrida-em-longo-prazo/)
