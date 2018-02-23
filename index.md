@@ -83,3 +83,7 @@ Turma de Programação de Jogos Digitais(PJD3V) na aula de campo realizada em Di
 
 * Palestra com a Massive Work a respeito de empreendedorismo na área de jogos digitais.(2017)
 * I Expotec do IFRN-Campus Ceará Mirim, tema: "Ciência e Tecnologia: Transformando as relações humanas com o mundo".(2017)
+
+## Hobbies   
+
+[Fitdance](https://www.youtube.com/channel/UCl_AQeO6ynSDRSjclc1e16Q)
