@@ -16,7 +16,9 @@ Contato:
  Email Acadêmico: matheus.soares@academico.ifrn.edu.br  
  [Currículo Lattes](http://lattes.cnpq.br/8754198449610994)  
  Redes Sociais: [~~Pinterest~~](https://br.pinterest.com/mathaugustbeta/) [~~Twitter~~](https://twitter.com/mathaugusts) [~~Spotify~~](https://open.spotify.com/user/12142860294/playlist/7xhObRaXaRyexrcmO69Qkq)
- 
+
+![](spotify3.png)
+
 # Portfólio
 
 ## Games:
