@@ -77,13 +77,19 @@ Se trata de um projeto de extensão realizado no IFRN - Campus Ceará Mirim que 
 
 ![](IMG_0205.JPG)  
 
-Turma de Programação de Jogos Digitais(PJD3V) na aula de campo realizada em Diogo Lopes/Macau-RN
+Turma de Programação de Jogos Digitais(PJD3V) na aula de campo realizada em Diogo Lopes/Macau-RN  
+
+![](IMG_0387.JPG)  
+
+Turma de Programação de Jogos Digitais(2015117015) na apresentação do Músical Tiê, utilizado como requisito avaliativo para disciplina de Artes II
 
 * * *
 ## Eventos
 
 * Palestra com a Massive Work a respeito de empreendedorismo na área de jogos digitais.(2017)
-* I Expotec do IFRN-Campus Ceará Mirim, tema: "Ciência e Tecnologia: Transformando as relações humanas com o mundo".(2017)
+* I Expotec do IFRN-Campus Ceará Mirim, tema: "Ciência e Tecnologia: Transformando as relações humanas com o mundo".(2017)  
+
+* * *
 
 ## Hobbies   
 
