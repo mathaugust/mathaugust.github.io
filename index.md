@@ -86,4 +86,5 @@ Turma de Programação de Jogos Digitais(PJD3V) na aula de campo realizada em Di
 
 ## Hobbies   
 
-[Fitdance](https://www.youtube.com/channel/UCl_AQeO6ynSDRSjclc1e16Q)
+* [Fitdance](https://www.youtube.com/channel/UCl_AQeO6ynSDRSjclc1e16Q)
+* Correr
